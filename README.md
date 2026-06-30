@@ -1,6 +1,9 @@
-- 👋 Hi, I’m @gnomedevreact
+My projects:
 
-<!---
-gnomedevreact/gnomedevreact is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+imatpractice.online
+iron-cross.net
+pain-signal.com
+strikesense.net
+
+ChessMaster - Play Better IOS/Android
+https://apps.apple.com/hu/app/chessmaster-play-better/id6741578143
